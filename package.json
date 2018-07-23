@@ -1,0 +1,27 @@
+{
+  "requires": true,
+  "lockfileVersion": 1,
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "path": "^0.12.7"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "friendfinder",
+  "description": "Your Inspirational Friend app - built in node.JS & using Express Servers, deployed in HEROKU",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angelyna/FriendFinder.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/angelyna/FriendFinder/issues"
+  },
+  "homepage": "https://github.com/angelyna/FriendFinder#readme"
+}
