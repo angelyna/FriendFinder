@@ -12,7 +12,7 @@ The app takes in the user's imput thrugh a 10 fun questionnaire, and then compar
 This app uses Express to handle routing and it is deployed to Heroku under the link:
 
 
-HEROKU LINK
+https://findyourinspirationalfriend.herokuapp.com/
 
 To run this app you need to install node.JS, npm dependencies. In your terminal run node server, which shall return the PORT: 5000. To start the app open your local browser and type http://localhost:5000/
 
