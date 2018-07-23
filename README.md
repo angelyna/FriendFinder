@@ -1,6 +1,6 @@
 # YOUR INSPIRATIONAL FRIEND
 
-Your Inspirational Friend app - node.JS & Express Servers, deployed in HEROKU
+Your Inspirational Friend app - built in node.JS & using Express Servers, deployed in HEROKU
 
 ---
 ### Highlights
