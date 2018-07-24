@@ -37,16 +37,12 @@ The Home Page gives the user the option to take the survey to match up to match 
 
 ![Home Page](app/public/assets/images/homePage.jpg)
 
-Home Page
-
 ### SURVEY Page
 
 The Survey Page is based on 10 questions, each of them giving the user the option to select the most agreeable choice: 1) Strongly
 disagree, 2) Slightly disagree, 3) Neither agree or disagree, 4) Agree, 5) Strongly agree.
 
 ![Survey Page](app/public/assets/images/surveyPage.jpg)
-
-Survey Page
 
 Once the user hits the submit button ...
 
@@ -55,8 +51,6 @@ Once the user hits the submit button ...
 #### Then a modal pops up with the users best match. The app compares the user's responses with the pre-filled inspirational friends answers of the array, displaying the inspirational character with the smallest difference.
 
 > ![gif](https://github.com/angelyna/FriendFinder/blob/master/app/public/assets/images/TinkerBellGif.gif)
-
-Best Match 
 
 #### The user have the option to 'Play Again'. Furthermore, the Survey Page provides three links, located at the bottom of the page: (1)Home Page (2)API Friends List and (3)My GitHub Repo.
 
