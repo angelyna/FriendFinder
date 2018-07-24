@@ -40,7 +40,7 @@ Once the user hits the submit button ...
 
 ##### Then a modal pops up with the users best match. The app compares the user's responses with the pre-filled inspirational friends answers of the array, displaying the inspirational character with the smallest difference.
 
-> ![gif](app/public/assets/images/TinkerBell.jpg 100px)
+> ![gif](app/public/assets/images/TinkerBell.jpg)
 
 ##### The app is enhanced with the 'Play Again' feature. Furthermore, the Survey Page provides three links, located at the bottom of the page: (1)Home Page (2)API Friends List and (3)My GitHub Repo.
 
