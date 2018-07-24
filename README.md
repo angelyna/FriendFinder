@@ -12,7 +12,7 @@ Your Inspirational Friend app stems from thecompatibility-based "Friends Finder"
 
 The app takes in the user's input through a questionnaire of 10 fun questions, and then compares the score answers with those existing in the API. Afterwards, the app displays the name and picture of the inspirational friend with the best overall match. 
 
-#####The app requires node.JS, including npm dependencies:
+##### The app requires node.JS, including npm dependencies:
 
 - Node.js
 - body-parager NPM Package - https://www.npmjs.com/package/inquirer
@@ -21,9 +21,7 @@ The app takes in the user's input through a questionnaire of 10 fun questions, a
 
 In your terminal run node server, which shall return the PORT: 5000. To start the app open your local browser and type http://localhost:5000/
 
----
-
-### HOME Page
+#### HOME Page
 
 The Home Page gives the user the option to take the survey to match up to match up to your best inspirational friend in the present moment, based on your current feelings. The home page provides two more links, located at the bottom of the page: (1)the API Friends List and (2)My GitHub Repo.
 
