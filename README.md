@@ -25,7 +25,7 @@ In your terminal run node server, which shall return the PORT: 5000. To start th
 
 The Home Page gives the user the option to take the survey to match up to match up to your best inspirational friend in the present moment, based on your current feelings. The home page provides two more links, located at the bottom of the page: (1)the API Friends List and (2)My GitHub Repo.
 
-![Home Page](app/public/assets/images/homePage.jpg =100x100)
+![Home Page](app/public/assets/images/homePage.jpg){: height="36px" width="36px"}
 
 ##### SURVEY Page
 
