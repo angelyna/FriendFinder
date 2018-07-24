@@ -4,8 +4,6 @@ Built in node.JS & using Express Servers.
 
 Deployed in HEROKU: https://findyourinspirationalfriend.herokuapp.com/
 
---
-
 ### Highlights
 
 Your Inspirational Friend app stems from thecompatibility-based "Friends Finder" application. Built in node.JS and Express Servers, the theme of the app is "find your inspirational friend, based on your present feelings". 
@@ -14,9 +12,7 @@ Your Inspirational Friend app stems from thecompatibility-based "Friends Finder"
 
 The app takes in the user's input through a questionnaire of 10 fun questions, and then compares the score answers with those existing in the API. Afterwards, the app displays the name and picture of the inspirational friend with the best overall match. 
 
---
-
-The app requires node.JS, including npm dependencies:
+#####The app requires node.JS, including npm dependencies:
 
 - Node.js
 - body-parager NPM Package - https://www.npmjs.com/package/inquirer
