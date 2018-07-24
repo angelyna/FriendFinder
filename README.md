@@ -50,11 +50,11 @@ Survey Page
 
 Once the user hits the submit button ...
 
-![Survey Page](app/public/assets/images/submitPage.jpg)
+![Submit Page](app/public/assets/images/submitPage.jpg)
 
 #### Then a modal pops up with the users best match. The app compares the user's responses with the pre-filled inspirational friends answers of the array, displaying the inspirational character with the smallest difference.
 
-> ![BestMatch]( app/public/assets/images/ThinkerBellGif.gif)
+> ![gif]( app/public/assets/images/ThinkerBellGif.gif)
 
 Best Match 
 
