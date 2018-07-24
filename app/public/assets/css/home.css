@@ -1,0 +1,20 @@
+
+html, body{
+  height: 100%;
+  background-image: url('../images/paris.jpg');
+  background-position: center;
+  background-size: cover;
+}
+.jumbotron{
+  width: 80%;
+}
+h4{
+  color:white;
+}
+a{
+  color: rgb(46, 3, 42);
+  font-size: 3vh;
+}
+.btn {
+background-color: rgb(216, 89, 148);
+}

@@ -1,0 +1,22 @@
+
+html, body{
+  height: 100%;
+  background-image: url('../images/rainbow.jpg');
+  background-position: center;
+  background-size: cover;
+}
+.container{
+  margin-top: 2%;
+  margin-bottom: 2%;
+  width: 80%;
+}
+#name{
+  width: 40%
+}
+#photo{
+  width: 40%
+}
+a{
+  color: rgb(136, 10, 136);
+  font-size: 2vh;
+}

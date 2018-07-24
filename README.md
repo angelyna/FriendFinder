@@ -29,7 +29,7 @@ The Survey Page is based on 10 questions, each of them giving the user the optio
 
 PIC
 
-Once the user hitS the submit button ...
+Once the user hits the submit button ...
 
 PIC
 
@@ -46,8 +46,7 @@ PIC
 ---
 
 ### Future APP enhancements
-* Enhance the css to bautify html pages.
-* Enhance the code to avoide reprtition / Dry the code.
+ * Enhance the code to avoide repetition / Dry the code.
 
 ---
 
