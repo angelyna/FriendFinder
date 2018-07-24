@@ -35,7 +35,7 @@ In your terminal run node server, which shall return the PORT: 5000. To start th
 
 The Home Page gives the user the option to take the survey to match up to match up to your best inspirational friend in the present moment, based on your current feelings. The home page provides two more links, located at the bottom of the page: (1)the API Friends List and (2)My GitHub Repo.
 
-![Home Page](app/public/images/homePage.jpg)
+![Home Page](app/public/assets/images/homePage.jpg)
 
 Home Page
 
@@ -44,17 +44,17 @@ Home Page
 The Survey Page is based on 10 questions, each of them giving the user the option to select the most agreeable choice: 1) Strongly
 disagree, 2) Slightly disagree, 3) Neither agree or disagree, 4) Agree, 5) Strongly agree.
 
-![Survey Page](app/public/images/surveyPage.jpg)
+![Survey Page](app/public/assets/images/surveyPage.jpg)
 
 Survey Page
 
 Once the user hits the submit button ...
 
-![Survey Page](app/public/images/submitPage.jpg)
+![Survey Page](app/public/assets/images/submitPage.jpg)
 
 #### Then a modal pops up with the users best match. The app compares the user's responses with the pre-filled inspirational friends answers of the array, displaying the inspirational character with the smallest difference.
 
-> ![BestMatch]( app/public/images/ThinkerBell.gif)
+> ![BestMatch]( app/public/assets/images/ThinkerBell.gif)
 
 Best Match 
 
