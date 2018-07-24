@@ -1,12 +1,8 @@
 # YOUR INSPIRATIONAL FRIEND
 
-Your Inspirational Friend app - built in node.JS & using Express Servers, deployed in HEROKU
+Your Inspirational Friend app - built in node.JS & using Express Servers.
 
----
-
-This app uses Express to handle routing and it is deployed to Heroku under the link:
-
-https://findyourinspirationalfriend.herokuapp.com/
+Deployed in HEROKU: https://findyourinspirationalfriend.herokuapp.com/
 
 ---
 
