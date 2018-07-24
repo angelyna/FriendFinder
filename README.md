@@ -54,13 +54,11 @@ Once the user hits the submit button ...
 
 #### Then a modal pops up with the users best match. The app compares the user's responses with the pre-filled inspirational friends answers of the array, displaying the inspirational character with the smallest difference.
 
-> ![gif]( app/public/assets/images/ThinkerBellGif.gif)
+> ![gif](https://github.com/angelyna/FriendFinder/blob/master/app/public/assets/images/TinkerBellGif.gif)
 
 Best Match 
 
-#### The user have the option to 'Play Again'. Furthermore,
-the Survey Page provides three links, located at the bottom of the page:
-(1)Home Page (2)API Friends List and (3)My GitHub Repo.
+#### The user have the option to 'Play Again'. Furthermore, the Survey Page provides three links, located at the bottom of the page: (1)Home Page (2)API Friends List and (3)My GitHub Repo.
 
 ---
 
