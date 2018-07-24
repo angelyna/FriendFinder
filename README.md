@@ -44,12 +44,10 @@ Once the user hits the submit button ...
 
 ##### The app is enhanced with the 'Play Again' feature. Furthermore, the Survey Page provides three links, located at the bottom of the page: (1)Home Page (2)API Friends List and (3)My GitHub Repo.
 
----
-
-##### Envisioned enhancements
+#### Envisioned enhancements
 
  * Enhance the code to avoid repetition / Dry the code.
 
 ---
 
-* **by Angelina Davies – July 2018** - *HTML/CSS/JS/Node.js*- [Angelina Davies](https://github.com/angelyna)
+* **Angelina Davies – July 2018** - *HTML/CSS/JS/Node.js*- [Angelina Davies](https://github.com/angelyna)
