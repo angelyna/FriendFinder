@@ -40,9 +40,9 @@ disagree, 2) Slightly disagree, 3) Neither agree or disagree, 4) Agree, 5) Stron
 
 ##### ... then a modal pops up with the users best match. The app compares the user's responses with the pre-filled inspirational friends answers of the array, displaying the inspirational character with the smallest difference.
 
-> ![gif](https://github.com/angelyna/FriendFinder/blob/master/app/public/assets/images/TinkerBellGif.gif)
+        ![gif](https://github.com/angelyna/FriendFinder/blob/master/app/public/assets/images/TinkerBellGif.gif)
 
-> > > ![pic](app/public/assets/images/bestMatch.png)
+![pic](app/public/assets/images/bestMatch.png)
 
 ##### The app is enhanced with the 'Play Again' feature. Furthermore, the Survey Page provides three links, located at the bottom of the page: (1)Home Page (2)API Friends List and (3)My GitHub Repo.
 
