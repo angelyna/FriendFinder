@@ -15,7 +15,7 @@ The app takes in the user's input through a questionnaire of 10 fun questions, a
 ##### The app requires node.JS, including npm dependencies:
 
 - Node.js
-- body-parager NPMuser have the option to Package - https://www.npmjs.com/package/inquirer
+- body-parser NPMuser have the option to Package - https://www.npmjs.com/package/inquirer
 - express NPM Package -https://www.npmjs.com/package/express
 - path NPM Package - https://www.npmjs.com/package/path
 
